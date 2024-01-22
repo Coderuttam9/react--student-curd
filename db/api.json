@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "581c",
+      "name": "Alexa",
+      "roll": "001101",
+      "email": "ty432@gmail.com",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team2.jpg"
+    },
+    {
+      "id": "c233",
+      "name": "Uttam kumar",
+      "roll": "001102",
+      "email": "codderboys@gmail.com",
+      "photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+    }
+  ]
+}
